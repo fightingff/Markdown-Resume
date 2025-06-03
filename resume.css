@@ -21,11 +21,12 @@ h2 {
 }
 
 h2 img {
-    width: 16px !important;
+    width: 30px !important;
 }
 
 h2 {
     font-size: 17px !important;
+    color: #166ff3;
 }
 
 p {
